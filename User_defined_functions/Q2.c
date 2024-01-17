@@ -1,4 +1,4 @@
-// wap to define a function which will not accept a number and print the table
+// wap to define a function which will accept a number and print the table
 #include <stdio.h>
 void main()
 {
